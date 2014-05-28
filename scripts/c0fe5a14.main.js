@@ -1,1 +1,0 @@
-!function(){"use strict";function a(a,b){a.img=[],b.get("")}angular.module("instagram",[]).controller(a)}();
